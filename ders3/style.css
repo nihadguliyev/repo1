@@ -1,0 +1,18 @@
+.form {
+  color: blue;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  gap: 5px;
+}
+#button {
+  font-size: 20px;
+}
+form button {
+  font-size: 24px !important;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}

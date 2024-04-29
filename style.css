@@ -1,0 +1,20 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+label {
+  color: red;
+  text-align: center;
+}
+.input {
+  color: white;
+}
+.button {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+#h {
+  width: 200px;
+  background-color: red;
+}
